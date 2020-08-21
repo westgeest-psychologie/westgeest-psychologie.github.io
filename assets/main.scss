@@ -5,10 +5,14 @@
 @import "minima";
 
 .site-header {
-  background-color: $grey-color-light;
+  background-color: #bdeabc;
 }
 .site-footer {
-  background-color: $grey-color-light;
+  background-color: #bdeabc;
+}
+
+.footer-col-wrapper {
+  color: #42398c;
 }
 
 .site-title {
@@ -21,5 +25,25 @@
     width: 280px;
     height: 100px;
     background-size: 100%;
+  }
+}
+
+div.service-thumb {
+  float:left; 
+  width:30%; 
+  margin:0.5em;
+  @include media-query($on-palm) {
+    float: none; 
+    width: fit-content;
+    background-size: 100%;
+  }
+}
+
+.right-picture {
+  margin: 0 0 2em 2em; 
+  width:25%;
+  float:right;
+  @include media-query($on-palm) {
+    width:40%; 
   }
 }
