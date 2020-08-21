@@ -1,0 +1,25 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-header {
+  background-color: $grey-color-light;
+}
+.site-footer {
+  background-color: $grey-color-light;
+}
+
+.site-title {
+  display: block;
+  width: 350px;
+  height: 120px;
+  background-image: url(/images/logo-2020--transp-350.png);
+  background-repeat: no-repeat;
+  @include media-query($on-palm) {
+    width: 280px;
+    height: 100px;
+    background-size: 100%;
+  }
+}
