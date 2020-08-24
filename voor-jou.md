@@ -1,8 +1,11 @@
 ---
 layout: normal-page
+order: 1
 title: Voor jou
 permalink: /voor-jou/
 page-picture: voor-jou.png
+slug: Loop je vast, bijvoorbeeld in je werk, je carrière, of je gezondheid?  Lukt het niet goed om eruit te komen? 
+tag: service-page
 ---
 
 Als je vastloopt en het lukt je niet goed om eruit te komen, dan betekent dat niet dat er iets mis met je is. Het betekent wel dat er iets speelt dat wezenlijk voor je is. Als je wilt ontdekken wat dat is en hoe je daar het beste invulling aan kunt geven, dan help ik je daar graag bij.

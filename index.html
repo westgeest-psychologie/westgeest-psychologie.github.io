@@ -1,7 +1,4 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 list_title: Nieuws
 title: ""
@@ -9,41 +6,21 @@ title: ""
 
 <h2 style="text-align:center">Psychologische begeleiding en therapie</h2> 
 
-<div>
-<div class="service-thumb">
-<img src="/images/voor-jou.png/">
-<h2> Voor jou </h2>
+{% assign: service_pages = site.pages | sort: 'order' %}
+{% for page in service_pages %}
+  {% if page.tag == 'service-page' %}
+  
+  <div>
+    <div class="service-thumb">
+      <img src="/images/{{ page.page-picture }}"/>
+      <h2 style="text-align:center">{{ page.title }}</h2> 
+      <p>
+        {{ page.slug }}
+      </p>
+      <a href="page.url">lees meer</a>
 
-<p>
-Loop je vast, bijvoorbeeld in je werk, je carrière, of je gezondheid?  Lukt het niet goed om eruit te komen? 
-</p>
-
-<a href="/voor-jou">lees meer</a>
-
-</div>
-
-<div class="service-thumb">
-<img src="/images/voor-je-relatie.png/">
-
-<h2>Voor je relatie</h2>
-
-<p>
-Is jullie relatie niet zoals je zou willen. Zitten jullie elkaar
-continue in de haren of leven jullie juist langs elkaar heen.
-</p>
-
-<a href="/voor-je-relatie">lees meer</a>
-</div>
-
-<div class="service-thumb">
-<img src="/images/voor-je-gezin.png/">
-
-<h2> Voor je gezin</h2>
-
-<p>
-Loop je vast in je gezin? Zit iedereen elkaar in de weg? Worstelen jullie met een samengesteld gezin? Of heb je al jaren slecht contact binnen de familie?
-</p>
-
-<a href="/voor-je-gezin">lees meer</a>
-</div>
+    </div>
+    
+  {% endif %}
+{% endfor %}
 </div>
