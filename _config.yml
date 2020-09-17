@@ -29,6 +29,8 @@ url: "http://vriendenmetjezelf.nl" # the base hostname & protocol for your site,
 #twitter_username: jekyllrb
 #github_username:  rwestgeest
 
+google_analytics: UA-178363440-1
+
 minima:
   date_format: "%d-%m-%Y"
 
