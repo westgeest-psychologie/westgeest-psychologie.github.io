@@ -15,16 +15,10 @@
               {{ site.title | escape }}
             {%- endif -%}
             </li>
-            {%- if site.email -%}
-            <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-            {%- endif -%}
-            {%- if site.phone -%}
-            <li>{{ site.phone }}</li>
-            {%- endif -%}
-            {%- if site.address -%}
-            <li>{{ site.address }}
-            </li>
-            {%- endif -%}
+            {%- if site.address -%} <li>{{ site.address }} </li> {%- endif -%}
+            {%- if site.phone -%} <li>{{ site.phone }}</li> {%- endif -%}
+            {%- if site.email -%} <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li> {%- endif -%}
+            {%- if site.linkedin_username -%}<li><a href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#linkedin' | relative_url }}"></use></svg> <span class="username">{{ site.linkedin_username | replace: "-007507b", "" | escape }}</span></a></li>{%- endif -%}
         </ul>
       </div>
 
