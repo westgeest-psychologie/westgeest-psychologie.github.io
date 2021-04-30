@@ -43,9 +43,6 @@ we balans in voelen, denken en handelen.
 
 ## Meer weten over mij?
 
-Wil je meer weten over mij? Je kunt contact opnemen met mijn PsyNed
-praktijkassistente: mijn praktijkassistente kan je alles vertellen over
-mijn therapie, over mij, over de kosten en eventuele vergoeding. Je kan
-ook direct een afspraak maken. Bel gerust met je vraag of voor het maken
-van een afspraak naar 06-49806043
+Wil je meer weten over mij? Bel gerust met je vraag of voor het maken
+van een afspraak op 06-49806043.
 
