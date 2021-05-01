@@ -4,7 +4,7 @@ order: 1
 title: Voor jou
 permalink: /voor-jou/
 page-picture: voor-jou.png
-slug: Loop je vast, bijvoorbeeld in je werk, je carrière, of je gezondheid?  Lukt het niet goed om eruit te komen? 
+description: Loop je vast, bijvoorbeeld in je werk, je carrière, of je gezondheid?  Lukt het niet goed om eruit te komen? 
 tag: service-page
 ---
 

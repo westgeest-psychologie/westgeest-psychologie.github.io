@@ -1,8 +1,10 @@
 ---
 layout: about-page
-title: Over Christina
-permalink: /about/
-person: christina
+title: Over Christina Westgeest
+description: Ik ga de verbinding aan en zet mensen in hun kracht, in een veilige sfeer, waarin ieder mag zijn zoals die is. Ik daag mensen liefdevol uit om nieuwe wegen te ontdekken.
+permalink: /over-christina-westgeest/
+person: Christina Westgeest
+person_image: christina
 ---
 
 In de loop van de jaren heb ik zelf ondervonden hoe belangrijk het is om

@@ -18,15 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Westgeest Psychologie
+title: Westgeest Psychologie Praktijk Tilburg
 email: info@westgeest-psychologie.nl
 phone: 06-49806043
 linkedin_username: christina-westgeest-007507b
 address: <a href="https://goo.gl/maps/pWgwjrjoek14GBFo9" target="_blank">Kapitein Rondairestraat 3<br/>5015 BC Tilburg</a>
 description: >- # this means to ignore newlines until "baseurl:"
-  Ik ga de verbinding aan en zet mensen in hun kracht, in een veilige sfeer, waarin ieder mag zijn zoals die is. 
-  Ik hou ervan om mensen liefdevol uit te dagen en nieuwe wegen op een speelse manier te ontdekken.
-
+  Praktijk voor psychologie in Tilburg en Hilvarenbeek. Voor psychologische therapie 
+  relatietherapie ondersteuning en advies.
 url: "https://westgeest-psychologie.nl" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  rwestgeest

@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Tarieven
+permalink: /tarieven/
+description: Onze tarieven voor psychologische consulten coaching en relatietherapie
 ---
 
 <table>

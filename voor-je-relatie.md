@@ -5,7 +5,7 @@ title: Voor je relatie
 permalink: /voor-je-relatie/
 page-picture: voor-je-relatie.png
 tag: service-page
-slug: Is jullie relatie niet zoals je zou willen. Zitten jullie elkaar continue in de haren of leven jullie juist langs elkaar heen.
+description: Is jullie relatie niet zoals je zou willen. Zitten jullie elkaar continue in de haren of leven jullie juist langs elkaar heen.
 ---
 
 Is jullie relatie niet zoals je zou willen. Zitten jullie elkaar
