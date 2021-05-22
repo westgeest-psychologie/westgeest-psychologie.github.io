@@ -1,7 +1,8 @@
 ---
 layout: normal-page
 order: 2
-title: Voor je relatie
+title: Psyhologische hulp voor je relatie
+menutitle: Voor je relatie
 permalink: /voor-je-relatie/
 page-picture: voor-je-relatie.png
 tag: service-page

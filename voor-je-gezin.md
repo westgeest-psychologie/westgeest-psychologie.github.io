@@ -1,7 +1,8 @@
 ---
 layout: normal-page
 order: 3
-title: Voor je gezin
+title: Psychologische hulp voor je gezin
+menutitle: Voor je gezin
 permalink: /voor-je-gezin/
 page-picture: voor-je-gezin.png
 tag: service-page

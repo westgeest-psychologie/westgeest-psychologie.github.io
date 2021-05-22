@@ -3,7 +3,7 @@ layout: home
 list_title: Nieuws
 ---
 
-<h2 style="text-align:center">Psychologische begeleiding en therapie</h2> 
+<h1 style="text-align:center">Psychologische begeleiding en therapie</h1> 
 
 {% assign: service_pages = site.pages | sort: 'order' %}
 {% for page in service_pages %}
@@ -12,7 +12,7 @@ list_title: Nieuws
   <div>
     <div class="service-thumb">
       <img src="/images/{{ page.page-picture }}"/>
-      <h2 style="text-align:center">{{ page.title }}</h2> 
+      <h2 style="text-align:center">{{ page.menutitle }}</h2> 
       <p>
         {{ page.description }}
       </p>

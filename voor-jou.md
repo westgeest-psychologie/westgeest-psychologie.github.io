@@ -1,7 +1,8 @@
 ---
 layout: normal-page
 order: 1
-title: Voor jou
+title: Psychologische hulp voor jou
+menutitle: Voor jou
 permalink: /voor-jou/
 page-picture: voor-jou.png
 description: Loop je vast, bijvoorbeeld in je werk, je carrière, of je gezondheid? Lukt het niet goed om eruit te komen? 
