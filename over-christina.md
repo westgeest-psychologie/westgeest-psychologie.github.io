@@ -1,20 +1,21 @@
 ---
 layout: about-page
 title: Over Christina Westgeest
-description: Ik ga de verbinding aan en zet mensen in hun kracht, in een veilige sfeer, waarin ieder mag zijn zoals die is. Ik daag mensen liefdevol uit om nieuwe wegen te ontdekken.
+description: Ik ben Christina Westgeest, psycholog NIP. Ik ga de verbinding aan en zet mensen in hun kracht, in een veilige sfeer.
 permalink: /over-christina-westgeest/
 person: Christina Westgeest
 person_image: christina
 ---
 
-In de loop van de jaren heb ik zelf ondervonden hoe belangrijk het is om
-liefdevol met mezelf om te gaan. Hard werken, constant in ontwikkeling
-en veel willen leren hebben me veel gebracht. Het heeft me veel inzicht
-opgeleverd en het helpt me om anderen te inspireren en zich te
-ontwikkelen. Ik had een rijk leven maar toch veel onrust in mijn lijf.
-Mijn gedachten kan ik nog voor de gek houden, mijn lichaam nooit.  Door
-contact te maken met mijn lichaam en af te stemmen op haar signalen, ben
-ik vrijer en meer in contact met mezelf en anderen. Dat gun ik jou ook! 
+Ik ben Christina Westgeest, psycholoog NIP. In de loop van de jaren heb
+ik zelf ondervonden hoe belangrijk het is om liefdevol met mezelf om te
+gaan. Hard werken, constant in ontwikkeling en veel willen leren hebben
+me veel gebracht. Het heeft me veel inzicht opgeleverd en het helpt me
+om anderen te inspireren en zich te ontwikkelen. Ik had een rijk leven
+maar toch veel onrust in mijn lijf.  Mijn gedachten kan ik nog voor de
+gek houden, mijn lichaam nooit.  Door contact te maken met mijn lichaam
+en af te stemmen op haar signalen, ben ik vrijer en meer in contact met
+mezelf en anderen. Dat gun ik jou ook! 
 
 ## Verbinding
 

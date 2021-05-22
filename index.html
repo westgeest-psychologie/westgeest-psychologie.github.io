@@ -14,12 +14,10 @@ list_title: Nieuws
       <img src="/images/{{ page.page-picture }}"/>
       <h2 style="text-align:center">{{ page.title }}</h2> 
       <p>
-        {{ page.slug }}
+        {{ page.description }}
       </p>
       <a href="{{ page.url }}">lees meer</a>
-
     </div>
-    
   {% endif %}
 {% endfor %}
 </div>
