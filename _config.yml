@@ -23,7 +23,11 @@ author: Christina Westgeest - Psycholoog
 email: info@westgeest-psychologie.nl
 phone: 06-49806043
 linkedin_username: christina-westgeest-007507b
-address: <a href="https://goo.gl/maps/pWgwjrjoek14GBFo9" target="_blank">Kapitein Rondairestraat 3<br/>5015 BC Tilburg</a>
+address:
+  tilburg: >- 
+     <a href="https://goo.gl/maps/2ZNNXdwBQkWizMLB6" target="_blank">Boomstraat 127<sup>e</sup>, 5038 GP Tilburg</a>
+  beek: >- 
+     <a href="https://goo.gl/maps/X7HLYkVEZWoY8Ddi9" target="_blank">Ypelaerstraat 7, 5081 BS Hilvarenbeek</a>
 description: >- # this means to ignore newlines until "baseurl:"
   Christina Westgeest - Psycholoog NIP. Praktijk voor psychologie in Tilburg en Hilvarenbeek. Voor psychologische therapie 
   relatietherapie ondersteuning en advies.
