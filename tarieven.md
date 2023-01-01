@@ -7,6 +7,21 @@ description: Onze tarieven voor psychologische consulten coaching en relatiether
 
 <table>
 <tr> <th>Type Sessie </th> <th>Duur van de Sessie</th><th>Tarief</th><th>Tarief buiten kantoortijden</th></tr>
+{% for sessie in site.data.tarieven_2022 %}
+<tr>
+<td>{{ sessie.sessie_type }}</td>
+<td>{{ sessie.duur }}</td>
+<td>{{ sessie.tarief }}</td>
+<td>{{ sessie.tarief_buiten_kantoortijden }}</td>
+</tr>
+{% endfor %}
+</table>
+
+
+## Per 1 januari 2023 gelden nieuwe tarieven
+
+<table>
+<tr> <th>Type Sessie </th> <th>Duur van de Sessie</th><th>Tarief</th><th>Tarief buiten kantoortijden</th></tr>
 {% for sessie in site.data.tarieven %}
 <tr>
 <td>{{ sessie.sessie_type }}</td>
@@ -20,6 +35,7 @@ description: Onze tarieven voor psychologische consulten coaching en relatiether
 ## Afmelden
 
 Mocht je een sessie moeten afmelden, doe dat dan ten minste 24 uur van tevoren. Zo kan ik nog een andere client inplannen. 
-Meld je je later af, moet ik het "No-show" tarief in rekening brengen. 
+Meld je je later af, dan wordt het "No-show" tarief in rekening gebracht.
+Valt die 24 uur in het weekend? Stuur dan uiterlijk 24 uur van tevoren een mail of SMS met je afzegging of spreek mijn voicemail in.   
 
 
