@@ -7,21 +7,6 @@ description: Onze tarieven voor psychologische consulten coaching en relatiether
 
 <table>
 <tr> <th>Type Sessie </th> <th>Duur van de Sessie</th><th>Tarief</th><th>Tarief buiten kantoortijden</th></tr>
-{% for sessie in site.data.tarieven_2022 %}
-<tr>
-<td>{{ sessie.sessie_type }}</td>
-<td>{{ sessie.duur }}</td>
-<td>{{ sessie.tarief }}</td>
-<td>{{ sessie.tarief_buiten_kantoortijden }}</td>
-</tr>
-{% endfor %}
-</table>
-
-
-## Per 1 januari 2023 gelden nieuwe tarieven
-
-<table>
-<tr> <th>Type Sessie </th> <th>Duur van de Sessie</th><th>Tarief</th><th>Tarief buiten kantoortijden</th></tr>
 {% for sessie in site.data.tarieven %}
 <tr>
 <td>{{ sessie.sessie_type }}</td>
