@@ -2,9 +2,10 @@ version: '2'
 
 services:
   jekyll:
-    image: bretfisher/jekyll-serve
+    image: jekyll-serve
     volumes:
       - .:/site
+    user: "${UID}:${GID}" 
     ports:
       - '8092:4000'
       - '35739:35739'

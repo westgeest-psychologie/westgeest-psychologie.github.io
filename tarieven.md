@@ -20,7 +20,7 @@ description: Onze tarieven voor psychologische consulten coaching en relatiether
 ## Afmelden
 
 Mocht je een sessie moeten afmelden, doe dat dan ten minste 24 uur van tevoren. Zo kan ik nog een andere client inplannen. 
-Meld je je later af, dan wordt het "No-show" tarief in rekening gebracht.
+Meld je je later af, dan wordt het volledige tarief in rekening gebracht.
 Valt die 24 uur in het weekend? Stuur dan uiterlijk 24 uur van tevoren een mail of SMS met je afzegging of spreek mijn voicemail in.   
 
 
